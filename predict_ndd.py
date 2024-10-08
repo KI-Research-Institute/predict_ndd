@@ -202,13 +202,4 @@ if __name__ == "__main__":
         else:
             print('Error: failed to prepare features')
 
-    # compare results to original predictions
-    if False:
-        with open(os.path.join(model_dir,'autism_xgb_compact_730d_test_results.pkl'),'rb') as f:
-            res = pickle.load(f)
-        ref_df = pd.DataFrame({'id': res['ids'], 'y_pred': res['y_pred'], 'y': res['y_test']})
-
-        test_df = test_df.merge(ref_df,on='id',how='left')
-        test_df.to_csv('deploy_test_730_all.csv',index=False)
-
     exit(0)
