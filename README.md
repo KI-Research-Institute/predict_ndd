@@ -5,9 +5,10 @@ Supplementary to the paper: Early Prediction of Autistic Spectrum Disorder Using
   https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2813801
 
 # Installation
-create a conda environment with the required packages:
+create and activate a conda environment ('predict_ndd') with the required packages:
 ```
 conda env create -f predict_ndd_env.yml
+conda activcate predict_ndd
 ```
 
 test the package by running:
