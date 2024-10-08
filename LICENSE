@@ -1,0 +1,86 @@
+				Copyright 2024 KI Research Institute ("KI")
+										
+					NDD. predictor (the "Module")
+
+Free of Charge License for Scientific and Academic Research 
+
+KI is an Israeli nonprofit organization for applied research in computational health. 
+
+KI built and trained the Module (initial training). KI took reasonable care to ensure that 
+the Module does not contain identifiable personal information. KI distributes the 
+Module (as a newly developed assisting tool to be further trained and examined) under 
+license, free of charge, for scientific and academic research subject to all conditions 
+below.
+
+KI may at its sole discretion distribute the Module under other terms (free of charge) if 
+you wish to use the Module under other terms, please contact KI at: 
+info@kinstitute.org.il.
+
+A.	Use of the Module for scientific or academic research and redistribution (with or 
+without modifications) for scientific or academic research is permitted, free of 
+charge, provided that the following conditions are met:
+
+	a.	Use permission includes permission to modify or create derivative works.
+
+	b.	Any user irrevocably undertakes:
+
+		i.	To promptly notify KI (with descriptions and explanations as 
+			reasonably possible) on any abnormality or error (to enable its 
+			correction), and to the extent such user had authored and distributed 
+			a correction or a bypass to such abnormality or error to provide it (in 
+			binary and source code) under same terms of this license.
+
+		ii.	To refrain from any de-anonymization or re-identification of personal 
+			information.
+
+		iii.Save for describing the origin of the Module in accordance with this 
+			license, not to use KI's or any contributor's name, trade, or service 
+			mark for the promotion of any product, service, or endorsement 
+			without prior written approval.
+
+c.	Redistribution (with or without modifications or as a derivative work) is 
+	permitted, provided that the Module and any modifications or derivatives: 
+		i.	are distributed under the terms of this license.
+		ii.	are distributed with binary and source code.
+		iii.	Include a copy of this license and copyright notices.
+		iv.	any modifications or derivatives marked as such and include a 
+			copyright notice of their author.
+
+B.	Use or redistribution not explicitly permitted under this license is forbidden. 
+
+C.	Any use or redistribution not explicitly permitted under this license will 
+	automatically terminate this license. If a user institutes a patent claim against KI or 
+	any user using the Module in accordance with this license, the license for such 
+	claiming user will automatically terminate.
+
+D.	Third Pary Software - The Module contains third-party software licensed under other 
+	licenses as listed in the documentation. If the provisions of such licenses contradict 
+	the provisions of this license, the provisions of such licenses shall prevail to such 
+	third-party software.
+
+E.	NO WARRANTY AND LIMITATION OF LIABILITY
+
+THE MODULE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, 
+INCLUDING WITHOUT LIMITING, TO TITLE, NON-INFRINGE, FITNESS FOR A 
+PARTICULAR PURPOSE, ARE DISCLAIMED. 
+USER ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OR 
+THE USE OR REDISTRIBUTION AND ASSURE ALL OR ANY RISK ASSOCIATED WITH 
+EXERCISING THEIR PERMISSIONS UNDER THIS LICENSE. 
+IN NO EVENT SHALL KI (AND INCLUDING WITHOUT LIMITING ANY OF ITS OFFICER 
+HOLDERS, EMPLOYEES, OR OWNERS) OR ANY CONTRIBUTOR (ACTING IN 
+ACCORDANCE WITH THE PROVISIONS OF THIS LICENSE) BE LIABLE FOR ANY 
+DAMAGE (INCLUDING WITHOUT LIMITING ANY DIRECT, INDIRECT, 
+CONSEQUENTIAL, INCIDENTAL, SPECIAL, LOSS OF USE, LOSS OF DATA, LOOS 
+PROFITS; BUSINESS OR ACTIVITIES INTERRUPTION OR STOPAGE, LOSS OF 
+GOODWILL) HOWEVER CAUSED AND ON ANY THEORY OF LAW OR CAUSE OF 
+ACTION (INCLUDING WITHOUT LIMITING CONTRACT, TORT, ENJUST ENRICHMENT, 
+NEGLIGENCE) IN ANY WAY OUT OF THE USE OF THE MODULE, EVEN IF ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGE.
+
+F.	Definitions.
+
+	a.	"Module" - including accompanying documents.
+	b.	"Scientific or academic research" - including by governmental, 
+		administrative, or private institutions or researchers.
+
+					End of License

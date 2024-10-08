@@ -1,0 +1,60 @@
+english_title,red,orange,yellow,type,steps,english_new,english,max_age
+visually follows a moving object horizontally,0.34520547945205476,,,4,1_3,FollowsWithEyesightAfterMovingObjectInFront,okev_bembat_ahari_etzem_na,6
+vocalizes in response to human voice,1.5931283744589708,1.3743965017179063,0.45111775467404397,2,1_3,MakeSoundsInResponseToHumanSound,mashmia_kolot_cetgova_lekolot_adam,6
+smiles responsively,1.6069430190531433,1.4112355539690329,0.6629423051180223,1,1_3,SmilesSocialSmile,mechayech_chuch_chvrati,6
+raises head,3.481129802329213,2.7374414350095932,0.34520547945205476,3,1_3,LiftHeadWhenLyingOnStomach,marim_roash_beshkiva_al_habeten,6
+"hands together, manipulates fingers",3.7961672473867596,3.515679442508711,3.125,4,3_6,CrossesFingersPlayWithHands,meshalev_etzbaout_mesachek_bayadaim,9
+grasps an object,5.128484320557491,4.06663763066202,3.5056620209059233,4,3_6,HoldsOrReachesHandsToObject,ochez_moshit_yadayim_lehefetz,9
+visually follows a moving object vertically,3.125,,,4,3_6,FollowsWithEyesightOverVerticalLine,okev_bemabat_bekav_anachi,9
+Responds to rattling sound,3.125,,,2,3_6,RespondsToVoicesAndSounds,magiv_lekolot_vetzlilim,9
+makes various sounds including constants (ah-goo),3.585801393728223,3.125,,2,3_6,MakesDiverseSoundsIncludingConsonants,masmiha_kolot_megovanim_collel_eitzorim,9
+head and chest up in prone position,4.397212543554007,3.605836236933798,3.125,3,3_6,LiftsHeadAndChestWhenLyingOnStomach,marim_roash_vebet_chaze_beshkiva_al_habeten,9
+rolls over from abdomen to back and back to abdomen,8.608204134366925,7.596899224806202,6.125,3,6_9,FlipsFromBackToFrontAndViceVersa,mitapeh_meagav_el_abeten_vemeabeten_el_agav,12
+crawls,8.958656330749353,7.666989664082687,6.125,3,6_9,CrawlsOnBelly,zohel_zehilat_zir_gahon_al_shesh,12
+transfers an object from one hand to the other,6.125,,,4,6_9,MovesObjectFromHandToHand,maavir_hefetz_miyad_leyad,12
+taps two objects playfully,8.808462532299743,8.347868217054263,6.125,4,6_9,TapsOneObjectWithAnotherAsGame,makish_hefetz_ehad_basheni_kemishak,12
+makes repetitive syllables-constant or vowels,7.677002583979328,6.125,,2,6_9,MakesRepeatingSyllablesConsonantsVowls,mashmia_abarot_hozrot_itzur_tnua,12
+gets to sit without support,12.368707093821511,11.487700228832953,10.096109839816934,3,9_12,SitsByItself,mityashev_bekohot_atzmo,18
+pulls to stand,13.580091533180777,11.848112128146454,10.266304347826088,3,9_12,StandsUpByItself,makim_atzmo_leamida,18
+uses thumb- fingers grasp,10.25629290617849,9.125,,4,9_12,Grips,tfisat_tzabat,18
+feeds self,9.125,,,4,9_12,FeedsItself,maahil_atzmo,18
+vocalizes in a dialogue,9.125,,,1,9_12,MakesSoundsInConversation,mafik_kolot_bedu_siah,18
+understands simple instructions,11.467677345537759,9.945938215102975,9.125,2,9_12,UnderstandsSimpleInstructions,mevin_horaot_pshutot,18
+responds when addressed by name,9.125,,,1,9_12,RespondsToCallingItsName,magiv_lekriya_beshmo,18
+says one word or pronounces meaningful sounds,12.418764302059497,10.776887871853546,9.125,2,9_12,SaysOneWordOrSignificantSounds,omer_mila_ahat_o_mashmiya_kolot_mashmautiim,18
+responds differently to familiar and stranger,9.125,,,1,9_12,ResponseDifferBetweenSurroundingsAndItself,mabhin_beyno_lebein_asviva_akrova_vemagiv_beofen_shone,18
+walks with assistance,13.69633730834753,12.125,,3,12_18,WalksWithHelp,oleh_beezra,24
+says 2-3 words,16.538756388415674,14.717206132879046,12.125,2,12_18,SaysTwoThreeWords,omer_shtaim_shalosh_milim,24
+familiar with at least one body part,18.810689948892676,17.549616695059626,13.756388415672912,2,12_18,KnowsAtLeastOneBodyPart,makir_lefahot_helek_guf_ehad,24
+points at familiar objects to request,15.307708688245315,13.796422487223168,12.125,2,12_18,PointsAtFamiliarObjectsByRequest,matzbia_al_pi_bakasha_al_hafatzim_mukarim,24
+expresses will vocally or with gestures,12.125,,,2,12_18,ShowDesiresUsingGesturesOrWordings,mare_ratzonotav_bemahve_o_bamelel,24
+makes eye contact and expresses reciprocity during joint game,12.125,,,1,12_18,FormsEyeContactWhilePlaying,yotzer_kesher_ain_toh_kidey_mishak_meshutaf,24
+walks without assistance,18.125,,,3,18_24,WalksWithoutHelp,oleh_lelyo_ezra,36
+climbs upstairs with assistance,18.125,,,3,18_24,GoesUpStairsWithHelp,ole_bemadregot_im_ezra,36
+builds a tower of cubes,20.51640670982931,18.125,,4,18_24,BuildsTowerWithBuildingBlocks,bone_migdal_mikubiyot,36
+eats independently with a spoon,18.125,,,1,18_24,FeedsItselfUsingSpoon,maahil_atzmo_bekapit,36
+has a vocabulary of over ten words,25.869555620953502,22.047307239552676,18.125,2,18_24,VocabularyContainsMoreThanTenWords,otzar_milim_meal_eser_milim,36
+composes a sentence of at least two words,30.602339611536195,27.01022660388464,22.197395526780458,2,18_24,TwoYearsOldConcatsTwoWordsToSentense,begil_shnataim_lefahot_tziruf_ehad_shel_shney_milim_lemishpat,36
+squeezes and sticks out lips to give a kiss,24.048484402589757,19.205635668040024,18.125,1,18_24,GivesKiss,mekavetz_vemablit_sfataim_kidey_latet_neshika,36
+runs well without falling,24.125,,,3,24_36,RunsWithoutFalling,ratz_mibli_lipol,48
+climbs up and down the stairs without an adult's assistance,24.125,,,3,24_36,GoesUpAndDownTheStairsWithoutHelp,ole_veyored_bemadrigot_lelyo_ezra,48
+"imitates horizontal, vertical and circle lines",,27.357939035486808,24.125,4,24_36,CopiesVerticalHorizontalRoundedLines,mehake_kavim_meunahim_ofkiim_vemeugalim,48
+recognizes familiar objects and pronounces them by name,30.951205641492265,26.417083712465878,24.125,2,24_36,Naming,kinuy_bashem,48
+understands actions and speech without gestures,31.922088262056416,27.90843949044586,24.125,2,24_36,UnderstandingActionsAndSpeechParts,avanat_peulot_vehilkei_dibur,48
+expresses freely,,32.27240673339399,27.357939035486808,2,24_36,FreeExpression,abaa_hofshit,48
+participates in a dialogue,31.61180618744313,27.71826660600546,24.125,1,24_36,SpeechTargetedToCommunication,adibur_mekuvan_lematrat_tikshoret,48
+stands up on one leg for 3 seconds,42.61089626933576,36.125,,3,36_48,StandsOnOneLeg,omed_al_regel_ahat,60
+jumps from a stair,36.125,,,3,36_48,JumpsFromAStair,kofetz_mimadrega,60
+puts on shoes and dresses independently without buttoning,37.37613739763421,36.125,,1,36_48,PutShowsAndGetDressedExceptButton,noel_naalyaim_vemitlyabesh_prat_lekiftur,60
+imitates patterns (+) and copies circles,44.07222474977252,40.839285714285715,36.125,4,36_48,CopiesCrossExampleAndACircle,mehake_dugmat_vemaatik_igul,60
+counts three cubes,45.17322565969063,40.3488398544131,36.125,2,36_48,CountsToThree,mone_ad_shalosh,60
+familiar with at least three prepositions,44.95302547770701,36.785600545950864,36.125,2,36_48,KnowsAtLeastThreePrepositions,makir_lefahot_shalosh_milot_yahas_kagon_al_al_yadei_mitahat_veod,60
+understandable speech,,39.57813921747043,36.125,2,36_48,UnderstandableSpeaach,adibur_muvan,60
+jumps on one leg,57.05888429752066,52.84705306655067,48.125,3,48_72,HopsOnOneLeg,kofetz_al_regel_ahat,84
+walks heel to toe,58.47950195737277,55.56823618964767,48.125,3,48_72,WalksHeelToToe,oleh_ekev_betzad_agudal,84
+dresses independently,48.125,,,1,48_72,DressIndependently,mitlyabesh_beofen_atzmai,84
+copies geometrical shapes such as X and triangle,62.18111135276207,57.268975641583296,50.57606568073075,4,48_72,CopiesGeometricShapesSquareXTriangle,maatik_tzurot_geometriyot_ribua_iks_vemeshulash,84
+draws a human figure,59.660015224010436,57.599119182253155,51.20633971291866,4,48_72,DrawsHumanFigure,metzyer_dmot_adam,84
+plays with peer group,48.125,,,1,48_72,Plays,mesahek,84
+uses correct verbs and tense to describe a picture,56.29855371900827,50.38598303610265,48.125,2,48_72,DescribingPictureUsingCorrectTimeTenses,metaer_tmuna_toh_shimush_bepoalim_bezmanim_nahonim,84
+answers orientation questions such as name or age,56.32856676816007,48.43513484123532,48.125,2,48_72,AnswersFamiliarityQuestionsLikeNameAge,one_al_sheelot_itmatzut_kagon_shem_gil,84
