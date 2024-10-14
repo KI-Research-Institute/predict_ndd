@@ -8,7 +8,7 @@ Supplementary to the paper: Early Prediction of Autistic Spectrum Disorder Using
 create and activate a conda environment ('predict_ndd') with the required packages:
 ```
 conda env create -f predict_ndd_env.yml
-conda activcate predict_ndd
+conda activate predict_ndd
 ```
 
 test the package by running:
@@ -17,10 +17,10 @@ python predict_ndd.py
 ```
 
 # Overview
-predict_ndd is a code package implementing prediction of autistic spectrum disorder (ASD) using assessmenst of age-appropriate milestone attainment.
+predict_ndd is a code package for predicting the likelihood autistic spectrum disorder (ASD) using data from assessments of age-appropriate milestone attainment.
 ## Directories and files:
 
-predict_ndd.py - main code file
+predict_ndd.py - main code file, runs the prediction on the example input files
 
 data/scale_data_all_normals.csv - age norms for milestone attainment by the THIS developmental scale
 
@@ -29,6 +29,9 @@ data/models/*.pkl - prediction models
 data/tests/*.json - example input files for testing
 
 ## Input format (JSON):
+
+The input JSON consists of a "patient" section with demographic information and an array of "visits".
+A visit consits of a date and an array of milestones and the result of their assessment. 
 ```
 {
   "patient": {
@@ -95,6 +98,7 @@ features, model_name = prepare_features(visit_data, demography_data,scale_data)
 ```
 score = predict(features, models[model_name])
 ```
+The returned score (between 0 and 1) is the likelihood of ASD. 
 
 # Citation
 Amit, G., Bilu Y., et al. Early Prediction of Autistic Spectrum Disorder Using Developmental Surveillance Data. JAMA Netw Open 7, e2351052 (2024).
