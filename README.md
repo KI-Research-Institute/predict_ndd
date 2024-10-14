@@ -17,7 +17,7 @@ python predict_ndd.py
 ```
 
 # Overview
-predict_ndd is a code package for predicting the likelihood autistic spectrum disorder (ASD) using data from assessments of age-appropriate milestone attainment.
+predict_ndd is a code package for predicting the likelihood of autistic spectrum disorder (ASD) using data from assessments of age-appropriate milestone attainment.
 ## Directories and files:
 
 predict_ndd.py - main code file, runs the prediction on the example input files
